@@ -1,4 +1,4 @@
-package top.heldig.beat_tap_app
+package com.heldiglab.beattap
 
 import io.flutter.embedding.android.FlutterActivity
 
